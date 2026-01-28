@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.o
+satellite_analytics
+satellite_analytics_debug
+
+# Output files
+*.pgm
+
+# System files
+.DS_Store
+
+# Temporary files
+__pycache__/
+*.pyc
