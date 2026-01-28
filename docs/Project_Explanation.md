@@ -1,4 +1,4 @@
-# Hierarchical Satellite Image Analytics Engine
+# SkyMatrix: Hierarchical Satellite Image Analytics Engine
 
 ## Project Documentation for Design and Analysis of Algorithms
 

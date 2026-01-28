@@ -105,7 +105,7 @@ int main(int argc, char* argv[]) {
     AppConfig cfg = parseArgs(argc, argv);
     
     // Print banner
-    printHeader("HIERARCHICAL SATELLITE IMAGE ANALYTICS ENGINE");
+    printHeader("SKYMATRIX: SATELLITE ANALYTICS ENGINE");
     std::cout << "\nA Design and Analysis of Algorithms Project\n";
     std::cout << "Demonstrating: Dynamic Programming, Divide & Conquer,\n";
     std::cout << "               Priority Queues, and Graph Algorithms\n\n";
